@@ -1,3 +1,6 @@
 # Komputerowa-Analiza-Danych
-Original Author Github:  [https://github.com/Jadwixx], [https://github.com/kacperg007]
-License : MIT
+**Authors:**
+* [Jadwixx](https://github.com/Jadwixx)
+* [kacperg007](https://github.com/kacperg007)
+
+**License:** MIT
